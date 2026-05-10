@@ -26,6 +26,14 @@ A discreet Apple Watch application that helps users escape meetings gracefully, 
 
 ---
 
+## App in Action
+
+Here's a quick look at how FakeCall works:
+
+![FakeCall Demo](/Fakecall-Cont/vid/Screen%20Recording%202026-05-10%20at%2014.43.09.mov)
+
+---
+
 ## Why Apple Watch?
 
 The Apple Watch is the ideal platform for this kind of app due to its:
@@ -85,10 +93,10 @@ The following features are **intentionally not included** in this application:
 
 | Screen | File | Description |
 |---|---|---|
-| **Idle / Black Screen** | `BlackScreenView.swift` | The app's resting state. Listens for tap gestures to trigger the fake call, or long press to open the menu. |
-| **Fake Call Screen** | `ChamadaView.swift` | Simulates a realistic incoming call with the selected contact's details. Options to accept or reject. |
-| **On-Call Screen** | `OnCallView.swift` | Simulates an active call after accepting. Stays until the user taps Hang Up. |
-| **Options / TabView** | `OptionsView.swift` | Container for the three settings tabs: Contacts, Add Contact, and Settings. |
+| **Idle / Black Screen** | <img src="/Fakecall-Cont/img/a.png" width="200"> | The app's resting state. Listens for tap gestures to trigger the fake call, or long press to open the menu. |
+| **Fake Call Screen** | <img src="/Fakecall-Cont/img/Simulator Screenshot - Apple Watch Series 9 - 2026-05-10 at 15.09.53.png" width="200"> | Simulates a realistic incoming call with the selected contact's details. Options to accept or reject. |
+| **On-Call Screen** | <img src="/Fakecall-Cont/img/Simulator Screenshot - Apple Watch Series 9 - 2026-05-10 at 15.11.16.png" width="200"> | Simulates an active call after accepting. Stays until the user taps Hang Up. |
+| **Options / TabView** | <img src="/Fakecall-Cont/img/Simulator Screenshot - Apple Watch Series 9 - 2026-05-10 at 15.07.20.png" width="200"> <img src="/Fakecall-Cont/img/Simulator Screenshot - Apple Watch Series 9 - 2026-05-10 at 15.07.24.png" width="200"> <img src="/Fakecall-Cont/img/Simulator Screenshot - Apple Watch Series 9 - 2026-05-10 at 15.09.31.png" width="200"> <img src="/Fakecall-Cont/img/Simulator Screenshot - Apple Watch Series 9 - 2026-05-10 at 15.09.44.png" width="200">| Container for the three settings tabs: Contacts, Add Contact, and Settings. |
 
 ---
 
@@ -174,6 +182,5 @@ This project was developed for academic purposes. All rights reserved by the aut
 
 ## Authors
 
-- **Daniel Ferro** -
-    [RpVitrine](https://github.com/RpVitrine)
+- **Daniel Ferro** — [RpVitrine](https://github.com/RpVitrine)
 - **Guilherme Moleiro** — [@Gnmoleiro](https://github.com/Gnmoleiro)
