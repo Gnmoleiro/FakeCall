@@ -174,5 +174,6 @@ This project was developed for academic purposes. All rights reserved by the aut
 
 ## Authors
 
-- **Daniel Ferro**
+- **Daniel Ferro** -
+    [RpVitrine](https://github.com/RpVitrine)
 - **Guilherme Moleiro** — [@Gnmoleiro](https://github.com/Gnmoleiro)
